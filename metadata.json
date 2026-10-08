@@ -1,0 +1,6 @@
+{
+  "name": "Biometric Face Recognition & Credential HUD",
+  "description": "Real-time webcam face recognition system with credential display overlay and complete downloadable Python project package.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
